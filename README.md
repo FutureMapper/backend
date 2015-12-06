@@ -13,8 +13,8 @@ Getting Started
 ---------------
 To get up and running, simply do the following:
 
-    $ git clone https://github.com/DrkSephy/django-hackathon-starter.git
-    $ cd django-hackathon-starter
+    $ git clone https://github.com/FutureMapper/backend.git
+    $ cd backend
 
     # Install the requirements
     $ pip install -r requirements.txt
